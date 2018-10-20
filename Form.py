@@ -183,5 +183,4 @@ class Ui_MainWindow(object):
         self.label_11.setText(_translate("MainWindow", "step"))
         self.checkBox.setText(_translate("MainWindow", "Контроль ЛП"))
         self.pushButton.setText(_translate("MainWindow", "Solve"))
-        # self.checkBox_2.setText(_translate("MainWindow", "Очищать график"))
 

@@ -11,8 +11,6 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 from main import MyWin
 from main import second_window
 
-
-
 class mathpart(Ui_MainWindow):
     def building(self, p, v, y, k, c, u10, u20, eps, d, x0, h, secwin):
         count_div, count_mul = 0, 0

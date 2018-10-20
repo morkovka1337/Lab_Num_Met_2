@@ -46,7 +46,7 @@ class MyWin(QMainWindow, Ui_MainWindow):
         self.companovka_for_mpl2.addWidget(self.toolbar2)
         # Здесь прописываем событие нажатия на кнопку
         self.pushButton.clicked.connect(self.MyFunction)
-
+        
     # Пока пустая функция которая выполняется
     # при нажатии на кнопку
     def MyFunction(self):
